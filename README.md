@@ -9,13 +9,13 @@ I want to share my assigment white theme *Melody Music School*
 3. Footer
 
 #### I use
-HTML
-CSS
-Javascript
+1. HTML
+2. CSS
+3. Javascript
 
 ### Source
-[color hunt](https://colorhunt.co/)
-[Free Pik](https://www.freepik.com)
+1. [color hunt](https://colorhunt.co/)
+2. [Free Pik](https://www.freepik.com)
 
 
 ### Git Command
