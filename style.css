@@ -243,18 +243,6 @@ main .about .row .content p {
   line-height: 1.8;
 }
 
-picture {
-  display: block;
-  width: 80%;
-  max-width: 500px;
-  margin: 4rem auto;
-  border: 0.3rem solid blue;
-}
-
-picture > * {
-  max-width: 100%;
-}
-
 /* Our Course */
 main .ourcourse .box-container {
   display: grid;
@@ -663,6 +651,18 @@ footer .credit span {
 
   .home .content p {
     font-size: 1.5rem;
+  }
+  
+  picture {
+    display: block;
+    width: 80%;
+    max-width: 500px;
+    margin: 4rem auto;
+    border: 0.3rem solid blue;
+  }
+  
+  picture > * {
+    max-width: 100%;
   }
 }
 

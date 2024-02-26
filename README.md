@@ -1,5 +1,5 @@
 # Hello I'm Ira,
-I want to share my assigment white theme *Melody Music School*
+I want to share my assigment with theme *Melody Music School*
 ![image](image.png)
 
 ### HTML Structure
