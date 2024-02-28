@@ -83,7 +83,7 @@ section {
   letter-spacing: 0.2rem;
 }
 
-/* Header : logo - navbar - icons - searh-form*/
+/* Header : logo - toggle - navbar - icons - searh-form*/
 header {
   background: var(--bg);
   display: flex;
@@ -101,6 +101,39 @@ header {
 /* logo */
 header .logo img {
   height: 6rem;
+}
+
+/* Dark Mode */
+body.dark {
+  background-color: #0174BE;
+}
+
+.toggle {
+  position: relative;
+  height: 2rem;
+  width: 5rem;
+  border-radius: 100px;
+  background-color: #fff;
+  box-shadow: 0 .5rem .8rem red;
+  cursor: pointer;
+}
+
+.toggle::before {
+  content: "";
+  position: absolute;
+  height: 3rem;
+  width: 3rem;
+  background: #4070f4;
+  border-radius: 50%;
+  top: 50%;
+  left: .5rem;
+  transform: translateY(-50%);
+  transition: all 0.3s ease-in-out;
+}
+
+.toggle.active::before {
+  background-color: #18191a;
+  left: calc(100% - 1rem - 3rem);
 }
 
 /* navbar */
@@ -178,6 +211,67 @@ header .search-form label:hover {
 /* For connect to JS*/
 header .search-form.active {
   transform: scaleY(1);
+}
+
+/* Carousel */
+.image-slider {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--black);
+}
+
+.slider {
+  max-width: 80rem;
+  width: 100%;
+  height: 50rem;
+  border: .5rem solid #fff;
+  box-shadow: 0 .5rem 1rem rgba(0, 0, 0, 0.15);
+  overflow: hidden;
+}
+
+.image-box {
+  display: flex;
+  height: 100%;
+  width: 400%;
+  justify-content: space-between;
+}
+
+.image-box {
+  animation: imgBox 15s linear infinite;
+}
+
+.image img {
+  width: 100%;
+  height: 100%;
+}
+
+@keyframes imgBox {
+  0% {
+      margin-left: 0;
+  }
+
+  100% {
+      margin-left: -300%;
+  }
+}
+
+.image-box:hover {
+  animation-play-state: paused;
+}
+
+.image-box .image {
+  width: calc(100% - 100px);
+  height: 100%;
+}
+
+.image-box img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
 }
 
 /* Home : content */
@@ -610,6 +704,20 @@ footer .credit span {
   header {
     padding: 1.5rem 2rem;
   }
+  .gallery .container {
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.gallery .container .img {
+    grid-template-columns: repeat(2, 1fr);
+    width: 100%;
+    height: 100%;
+}
+
+.gallery .container .img img {
+    grid-template-columns: repeat(2, 1fr);
+    filter: brightness(1) grayscale(0);
+    -webkit-filter: brightness(1) grayscale(0);
 }
 
 @media only screen and (max-width: 768px) {
@@ -664,6 +772,11 @@ footer .credit span {
   picture > * {
     max-width: 100%;
   }
+
+  .gallery .container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
 }
 
 @media only screen and (max-width: 991px) {
