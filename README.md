@@ -1,6 +1,6 @@
 Hello, This assignment for week 4
 Theme: "Melody Music Course"
-HTML Version: HTML 5.
+I use HTML, CSS and Javascript to built the website.
 
 ## Version Control
 Creating Branches
@@ -9,7 +9,7 @@ Commiting Changes
 
 Merging Code
 
-## I use HTML, CSS and Javascript to built the website.
+
 
 ### Table of Content:
 1. HTML Semantic Structure

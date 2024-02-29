@@ -719,6 +719,7 @@ footer .credit span {
     filter: brightness(1) grayscale(0);
     -webkit-filter: brightness(1) grayscale(0);
 }
+}
 
 @media only screen and (max-width: 768px) {
   #menu-btn {
