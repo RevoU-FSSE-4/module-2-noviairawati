@@ -88,6 +88,7 @@ The following are the steps for setting DNS for the first time buying a domain. 
 ![13](/Assets/image-67.png)
 
 7. Click "Done" in Netlify
+
 ![14](/Assets/image-68.png)
 
 8. After that, you may need to wait a few minutes for the settings to propogate, you should eventually see the “Netlify DNS” tag associated with your domain name.
@@ -101,11 +102,13 @@ The following are the steps for setting DNS for the first time buying a domain. 
 ### Auto Deployement on Github with Netlify
 
 1. Add New Site
+
 ![1](/Assets/image.png)
 
 ![2](/Assets/image-1.png)
 
 2. Link to Your GitHub (or supported version-control tool of choice), then Clicking "Import An Existing Project"
+
 ![3](/Assets/image-2.png)
 
 ![4](/Assets/image-3.png)
@@ -166,11 +169,13 @@ Now I want to create a subdomain with the results of deploying my project assign
 ![3](/Assets/image-18.png)
 
 4. Write the name "Subdomain" and select "Verify"
+
 ![4](/Assets/image-20.png)
 
 ![5](/Assets/image-19.png)
 
 5. Your subdomain has been successfully created.
+
 ![6](/Assets/image-21.png)
 
 Check the link of your subdomain : [Melodymusciccourse](http://melodymusiccourse.noviairawati.site/)
