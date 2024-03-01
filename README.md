@@ -1,7 +1,7 @@
 Hello, This assignment for week 4
 Theme: "Melody Music Course"
-I use HTML, CSS and Javascript to built the website.
-HTML Version: HTML5
+I use *HTML, CSS and Javascript to built the website.*
+HTML Version: *HTML5*
 
 ## Version Control
 ### Creating Branches
@@ -36,7 +36,7 @@ git cherry-pick changed_branch
 2. [Free Pik](https://www.freepik.com)
 
 ## Deployment Process
-There are few steps in Deployment Process Buy A Domain, Setting Up DNS and Make subdomain to Netlify.
+There are few steps in Deployment Process: Setting Up DNS and Make subdomain to Netlify.
 
 ### Setting Up DNS
 1. Inside of the Netlify dashboard, navigate to your domain settings and click “Add Domain Management”
