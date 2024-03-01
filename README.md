@@ -19,19 +19,19 @@ git commit -m <message>
 git checkout other_branch
 git cherry-pick changed_branch
 
-### Table of Content:
+## Table of Content:
 1. HTML Semantic Structure
 2. CSS File (style.css)
 3. Javascript File (script.js)
 4. Readme File for documentation (README.md)
 5. Images File (IMG)
 
-### I use semantic element:
+## Semantic Element:
 1. Header
 2. Main
 3. Footer
 
-### Source
+## Source
 1. [color hunt](https://colorhunt.co/)
 2. [Free Pik](https://www.freepik.com)
 
@@ -159,4 +159,4 @@ Now I want to create a subdomain with the results of deploying my project assign
 5. Your subdomain has been successfully created.
 ![6](/Assets/image-21.png)
 
-Check the link : [Melodymusciccourse](http://melodymusiccourse.noviairawati.site/)
+Check the link of your subdomain : [Melodymusciccourse](http://melodymusiccourse.noviairawati.site/)
