@@ -19,14 +19,15 @@ git commit -m <message>
 git checkout other_branch
 git cherry-pick changed_branch
 
-## Table of Content:
+## Structure Website:
 1. HTML Semantic Structure
 2. CSS File (style.css)
 3. Javascript File (script.js)
 4. Readme File for documentation (README.md)
-5. Images File (IMG)
+5. Images File (IMG) & (Assets)
 
 ## Semantic Element:
+I use Semantic Element to built the website
 1. Header
 2. Main
 3. Footer
@@ -40,7 +41,6 @@ There are few steps in Deployment Process: Setting Up DNS and Make subdomain to 
 
 ### Setting Up DNS
 1. Inside of the Netlify dashboard, navigate to your domain settings and click “Add Domain Management”
-
 
 ![2](/Assets/image-54.png)
 
