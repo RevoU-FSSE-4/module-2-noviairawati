@@ -44,7 +44,7 @@ I use Semantic Element to built the website
 1. [color hunt](https://colorhunt.co/)
 2. [Free Pik](https://www.freepik.com)
 
-## Deployment Process
+## Deployment Process, Setting Domain & Subdomain
 
 There are few steps in Deployment Process: Setting Up DNS and Make subdomain to Netlify.
 
@@ -139,7 +139,7 @@ The following are the steps for setting DNS for the first time buying a domain. 
 
 8. Netlify automatically generated a name for your site. Let's update that by visiting the settings tab and clicking "Change site name":
 
-![13](image-11.png)
+![13](/Assets/image-11.png)
 
 ![14](/Assets/image-12.png)
 
