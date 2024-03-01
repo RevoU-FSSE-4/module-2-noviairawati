@@ -148,7 +148,7 @@ The following are the steps for setting DNS for the first time buying a domain. 
 ![16](/Assets/image-14.png)
 
 Here's my deploy on Netlify:
-[melody music course](melodymusiccourse.netlify.app)
+[melody music course](https://melodymusiccourse.netlify.app/)
 
 ![17](/Assets/image-16.png)
 
