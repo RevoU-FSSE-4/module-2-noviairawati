@@ -1,6 +1,6 @@
 Hello, This assignment for week 4
 Theme: "Melody Music Course"
-I use *HTML, CSS and Javascript to built the website.*
+I use *HTML, CSS and Javascript* to built the website.
 HTML Version: *HTML5*
 
 ## Version Control
