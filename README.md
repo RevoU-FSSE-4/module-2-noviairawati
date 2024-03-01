@@ -1,25 +1,30 @@
 Hello, This assignment for week 4
 Theme: "Melody Music Course"
-I use *HTML, CSS and Javascript* to built the website.
-HTML Version: *HTML5*
+I use _HTML, CSS and Javascript_ to built the website.
+HTML Version: _HTML5_
 
 ## Version Control
+
 ### Creating Branches
+
 1. In any Git project, you can see all branches by writing the following command in the command line:
-git branch
+   git branch
 
 2. It's very easy to create a new branch, just write the following command in the command line:
-git checkout "name of new Branch"
+   git checkout "name of new Branch"
 
 ### Commiting Changes
+
 git add <files>
 git commit -m <message>
 
 ### Merging Code
+
 git checkout other_branch
 git cherry-pick changed_branch
 
 ## Structure Website:
+
 1. HTML Semantic Structure
 2. CSS File (style.css)
 3. Javascript File (script.js)
@@ -27,19 +32,24 @@ git cherry-pick changed_branch
 5. Images File (IMG) & (Assets)
 
 ## Semantic Element:
+
 I use Semantic Element to built the website
+
 1. Header
 2. Main
 3. Footer
 
 ## Source
+
 1. [color hunt](https://colorhunt.co/)
 2. [Free Pik](https://www.freepik.com)
 
 ## Deployment Process
+
 There are few steps in Deployment Process: Setting Up DNS and Make subdomain to Netlify.
 
 ### Setting Up DNS
+
 1. Inside of the Netlify dashboard, navigate to your domain settings and click “Add Domain Management”
 
 ![2](/Assets/image-54.png)
@@ -76,8 +86,8 @@ There are few steps in Deployment Process: Setting Up DNS and Make subdomain to 
 
 ![13](/Assets/image-67.png)
 
- 7. Click "Done" in Netlify
-![14](/Assets/image-68.png)
+7. Click "Done" in Netlify
+   ![14](/Assets/image-68.png)
 
 8. After that, you may need to wait a few minutes for the settings to propogate, you should eventually see the “Netlify DNS” tag associated with your domain name.
 
@@ -88,13 +98,14 @@ There are few steps in Deployment Process: Setting Up DNS and Make subdomain to 
 ![17](/Assets/image-73.png)
 
 ### Auto Deployement on Github with Netlify
+
 1. Add New Site
-![1](/Assets/image.png)
+   ![1](/Assets/image.png)
 
 ![2](/Assets/image-1.png)
 
 2. Link to Your GitHub (or supported version-control tool of choice), then Clicking "Import An Existing Project"
-![3](/Assets/image-2.png)
+   ![3](/Assets/image-2.png)
 
 ![4](/Assets/image-3.png)
 
@@ -138,7 +149,9 @@ Here's my deploy on Netlify:
 ![17](/Assets/image-16.png)
 
 ### How to Make Subdomain
+
 Now I want to create a subdomain with the results of deploying my project assignment.
+
 1. Select the website on Netlify that you want to create a subdomain for.
 
 ![1](/Assets/image-15.png)
@@ -152,11 +165,11 @@ Now I want to create a subdomain with the results of deploying my project assign
 ![3](/Assets/image-18.png)
 
 4. Write the name "Subdomain" and select "Verify"
-![4](/Assets/image-20.png)
+   ![4](/Assets/image-20.png)
 
 ![5](/Assets/image-19.png)
 
 5. Your subdomain has been successfully created.
-![6](/Assets/image-21.png)
+   ![6](/Assets/image-21.png)
 
 Check the link of your subdomain : [Melodymusciccourse](http://melodymusiccourse.noviairawati.site/)
