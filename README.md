@@ -49,8 +49,9 @@ I use Semantic Element to built the website
 There are few steps in Deployment Process: Setting Up DNS and Make subdomain to Netlify.
 
 ### Setting Up DNS
+The following are the steps for setting DNS for the first time buying a domain. However, this is not the deployment that I used for assignments in week 4.
 
-1. Inside of the Netlify dashboard, navigate to your domain settings and click “Add Domain Management”
+1. Previously, select the project on Netlify that will be used according to the domain that has been purchased at Niaga Hoster. Then, Inside of the Netlify dashboard, navigate to your domain settings and click “Add Domain Management”
 
 ![2](/Assets/image-54.png)
 
@@ -100,12 +101,12 @@ There are few steps in Deployment Process: Setting Up DNS and Make subdomain to 
 ### Auto Deployement on Github with Netlify
 
 1. Add New Site
-   ![1](/Assets/image.png)
+![1](/Assets/image.png)
 
 ![2](/Assets/image-1.png)
 
 2. Link to Your GitHub (or supported version-control tool of choice), then Clicking "Import An Existing Project"
-   ![3](/Assets/image-2.png)
+![3](/Assets/image-2.png)
 
 ![4](/Assets/image-3.png)
 
@@ -150,7 +151,7 @@ Here's my deploy on Netlify:
 
 ### How to Make Subdomain
 
-Now I want to create a subdomain with the results of deploying my project assignment.
+Now I want to create a subdomain with the results of deploying my project assignment. This subdomain is the address I will use in my Assignment.
 
 1. Select the website on Netlify that you want to create a subdomain for.
 
@@ -165,11 +166,13 @@ Now I want to create a subdomain with the results of deploying my project assign
 ![3](/Assets/image-18.png)
 
 4. Write the name "Subdomain" and select "Verify"
-   ![4](/Assets/image-20.png)
+![4](/Assets/image-20.png)
 
 ![5](/Assets/image-19.png)
 
 5. Your subdomain has been successfully created.
-   ![6](/Assets/image-21.png)
+![6](/Assets/image-21.png)
 
 Check the link of your subdomain : [Melodymusciccourse](http://melodymusiccourse.noviairawati.site/)
+
+Thank You :)
