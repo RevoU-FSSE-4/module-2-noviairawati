@@ -91,72 +91,72 @@ There are few steps in Deployment Process Buy A Domain, Setting Up DNS and Make 
 1. Add New Site
 ![1](/Assets/image.png)
 
-![2](image-1.png)
+![2](/Assets/image-1.png)
 
 2. Link to Your GitHub (or supported version-control tool of choice), then Clicking "Import An Existing Project"
-![3](image-2.png)
+![3](/Assets/image-2.png)
 
-![4](image-3.png)
+![4](/Assets/image-3.png)
 
 3. Authorize Netlify It's time to authorized your Netlify and GitHub to connect each other. Clicking the "Authorized"
 
-![5](image-4.png)
+![5](/Assets/image-4.png)
 
 4. Select Your Repo Now that you've connected Netlify and GitHub, you can see a list of your Git repos. Choose the repo you’d like to deploy from the list.
 
-![7](image-5.png)
+![7](/Assets/image-5.png)
 
 5. Configure Your Settings click the "Deploying" button to continue.
 
-![8](image-6.png)
+![8](/Assets/image-6.png)
 
-![9](image-7.png)
+![9](/Assets/image-7.png)
 
 6. Build Your Site Now it's time to sit back and relax. You did your part; let Netlify take care of the rest. It'll only take a minute.
 
-![10](image-8.png)
+![10](/Assets/image-8.png)
 
 7. All Done Once the build completes, your site is live! Head to the overview and you can see the URL of your newly published site.
 
-![11](image-9.png)
+![11](/Assets/image-9.png)
 
-![12](image-10.png)
+![12](/Assets/image-10.png)
 
 8. Netlify automatically generated a name for your site. Let's update that by visiting the settings tab and clicking "Change site name":
 
 ![13](image-11.png)
 
-![14](image-12.png)
+![14](/Assets/image-12.png)
 
-![15](image-13.png)
+![15](/Assets/image-13.png)
 
-![16](image-14.png)
+![16](/Assets/image-14.png)
 
 Here's my deploy on Netlify:
 [melody music course](melodymusiccourse.netlify.app)
 
-![17](image-16.png)
+![17](/Assets/image-16.png)
 
 ### How to Make Subdomain
 Now I want to create a subdomain with the results of deploying my project assignment.
 1. Select the website on Netlify that you want to create a subdomain for.
 
-![1](image-15.png)
+![1](/Assets/image-15.png)
 
 2. Select "Domain Management"
 
-![2](image-17.png)
+![2](/Assets/image-17.png)
 
 3. Select "Add Domain"
 
-![3](image-18.png)
+![3](/Assets/image-18.png)
 
 4. Write the name "Subdomain" and select "Verify"
-![4](image-20.png)
+![4](/Assets/image-20.png)
 
-![5](image-19.png)
+![5](/Assets/image-19.png)
 
 5. Your subdomain has been successfully created.
-![6](image-21.png)
+![6](/Assets/image-21.png)
 
 Check the link : [Melodymusciccourse](http://melodymusiccourse.noviairawati.site/)
