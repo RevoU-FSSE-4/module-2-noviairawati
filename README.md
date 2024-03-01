@@ -88,7 +88,7 @@ The following are the steps for setting DNS for the first time buying a domain. 
 ![13](/Assets/image-67.png)
 
 7. Click "Done" in Netlify
-   ![14](/Assets/image-68.png)
+![14](/Assets/image-68.png)
 
 8. After that, you may need to wait a few minutes for the settings to propogate, you should eventually see the “Netlify DNS” tag associated with your domain name.
 
